@@ -2,10 +2,11 @@
 ![image](https://github.com/luckyKite/inventory_product_balance/assets/122114197/cf07961f-113b-456b-b6f1-3fe3ce9e27b9)
 
 ## ● 프로젝트 영상
-<img width="80%" src="https://github.com/luckyKite/mini_emart24_v2_front/assets/122114197/a2563450-c637-484a-a603-053bc384fda9"/>
-<img width="80%" src="https://github.com/luckyKite/mini_emart24_v2_front/assets/122114197/9e3b4cbc-9c47-483e-899a-82a481c41dd1"/>
-<img width="80%" src="https://github.com/luckyKite/mini_emart24_v2_front/assets/122114197/d12e7b4f-47fc-4f35-ac1e-854c7e7b4b2a"/>
+<img width="90%" src="https://github.com/luckyKite/mini_emart24_v2/assets/122114197/8bbe4ebb-f457-4464-aa84-3fa1e8d28043"/>
+<img width="90%" src="https://github.com/luckyKite/mini_emart24_v2/assets/122114197/73074c48-a1ce-4ae5-b047-7bfcd73a4ebb"/>
+<img width="90%" src="https://github.com/luckyKite/mini_emart24_v2/assets/122114197/4e3bff1c-ff93-4c2e-b089-469ef7c8c216"/>
 
+##
 ## ● 팀명 : 삑 그리고 다음
 ## ● 프로젝트 주제 : 기업형 슈퍼마켓의 효율적인 재고, 유통기한 관리를 위한 영업 정보 시스템
 ## ● 프로젝트 소개
